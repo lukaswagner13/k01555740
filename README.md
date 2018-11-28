@@ -12,4 +12,6 @@
 +
 +Die Stadt wird inoffiziell auch als Linz an der Donau bezeichnet, um nicht mit der deutschen Stadt Linz am Rhein verwechselt zu werden. 
 +
-+(https://de.wikipedia.org/wiki/Linz)
++[Linz Wikipedia Seite](https://de.wikipedia.org/wiki/Linz)
++
++![Linz Bild](https://upload.wikimedia.org/wikipedia/commons/7/77/Linz_view_2.jpg "Linz")
